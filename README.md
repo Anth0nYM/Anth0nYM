@@ -1,6 +1,5 @@
 ### Hi there I'm Anthony👋
 - 🌱 I’m currently learning Data Analysis and Web dev
--  ✴️ I want to be a Dev
 -  🐧❤️ Penguin lover 
 - ⚡ Fun fact: Machines can learn
 ##

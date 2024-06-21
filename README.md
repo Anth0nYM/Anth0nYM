@@ -1,3 +1,2 @@
 ### Hi there I'm Anthony👋
-- 👁️ Computer vision researcher 
-- ⚡ Fun fact: Machines can learn
+Holder of a Technologist's degree in Analysis and Systems Development, with a strong background in Python backend development and computer vision research. Currently pursuing a Master's degree in Computer Science with a focus on computer vision. Throughout my career, I aim to merge my passion for research with practical development skills to create innovative and impactful solutions to real-world challenges
